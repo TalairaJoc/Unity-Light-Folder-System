@@ -19,3 +19,5 @@ Installation and How to use :
 On game launch, the script will go through the hierarchy recursively to remove parenting and deleting the folder so every object in the folder hierarchy are still in the scene but at the root as excpected.
 
 I didn't try to safe proof exotic hierarchy where the folder chain is broken, just stick to basic folder->Subfolder->ect.. structure.
+
+https://user-images.githubusercontent.com/116562217/197523475-4b3139a6-b237-45e5-ad88-b0a367274ecd.mp4
